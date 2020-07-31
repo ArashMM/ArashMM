@@ -11,4 +11,4 @@ I'm accepting comissions so if you need a website, a discord bot or anything els
 | --------- | ----------- |
 | **Python** | Proficient |
 | **Rust** | Minimal and improving |
-| **C** | Minimal |
+| **C** | Minimal and improving|
