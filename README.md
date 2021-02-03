@@ -1,14 +1,16 @@
 ### Hi there 👋
 I'm Arash, I ❤︎ open source!
 
-I'm a passionate developer and student currently residing in Germany.
+I am a passionate intermediate developer who knows Python and Javascript very well. I'm currently learning many different frameworks, but already know how to use some of them proficiently. Among other things I try to get the Responsive Web Design Certificate from freeCodeCamp.org. I also participate in the [fork of Proton Native, called Valence Native](https://github.com/valence-native/valence-native).
 
-I'm accepting comissions so if you need a website, a discord bot or anything else, we can talk about it on Discord: Arash#0661
+E-Mail: arashhmoo@protonmail.com
+Discord: Arash#0661
 
 ## Skillset
 
-| Languages | Skill level |
-| --------- | ----------- |
-| **Python** | Proficient |
-| **Rust** | Minimal and improving |
-| **C** | Minimal and improving|
+| Frameworks     | Skill level |
+| ---------      | ----------- |
+| **Discord.py** | Expert      |
+| **Flask**      | Proficient  |
+| **React.js**   | Competent   |
+| **Next.js**    | Novice      |
